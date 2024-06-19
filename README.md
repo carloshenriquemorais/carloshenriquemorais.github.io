@@ -16,8 +16,7 @@
             <li><h2>Biografia</h2>
             <p><strong>Idade:</strong> 19 anos (30/06/2004)</p>
             <p><strong>Cidade:</strong> São Bernardo do Campo - SP</p>
-            <p><strong>Sobre:</strong> Faço faculdade na Anhanguera, curso Análise e Desenvolvimento de Sistemas, comecei no primeiro semestre de 2023. Meus hobbies são coisas geeks como jogos (Pokémon, Zelda, Efootball, etc), animes, e também, codar (isso bastante).</p>
-            </p></li>
+            <p><strong>Sobre:</strong> Faço faculdade na Anhanguera, curso Análise e Desenvolvimento de Sistemas, comecei no primeiro semestre de 2023. Meus hobbies são coisas geeks como jogos (Pokémon, Zelda, Efootball, etc), animes, e também, codar (isso bastante).</p></li>
         <h2>Educação:</h2>
             <li><p>Instituições de ensino frequentadas:
                 <p>SENAI Mario Amato - Fundamentos de Programação Web e Mobile <br> (08/2023 - 12/2023) (CONCLUIDO)</p>
@@ -25,7 +24,6 @@
             </p></li>
             <li><p>Graus Obtidos:</p> 
                 <p>Tecnólogo (ADS - Faculdade Anhanguera)</p></li>
-            </p></li>
             <li><p>Certificações: 
                 <p>Capacitação Profissional (Fundamentos de Programação Web e Mobile - SENAI)
             </p></li>
