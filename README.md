@@ -26,7 +26,7 @@
                 <p>Tecnólogo (ADS - Faculdade Anhanguera)</p></li>
             <li><p>Certificações: 
                 <p>Capacitação Profissional (Fundamentos de Programação Web e Mobile - SENAI)
-            </p></li>
+            </p>
         <h2>Habilidades:</h2>
             <li><p>Habilidades Técnicas:
                 <p>Suporte ao Cliente</p>
