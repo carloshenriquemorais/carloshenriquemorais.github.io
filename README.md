@@ -52,7 +52,7 @@
                 <p>Espanhol (Médio)</p>
             </p></li>
         <h2>Portfólio:</h2>
-            <li><p><a href="https://github.com/carloshenriquemorais" target="_blank">Projetos</a></p></li>
+            <li><p><a href="https://github.com/carloshenriquemorais" target="_blank">Projetos HTML5, CSS3 e JavaScript</a></p></li>
         <h2>Contato:</h2>
             <li><p>Email: <strong>carlosmorais932@gmail.com</strong></p></li>
             <li><p>Whatsapp: +55 (11) 96280-9722</p></li>
