@@ -56,6 +56,3 @@
         <h2>Contato:</h2>
             <li><p>Email: <strong>carlosmorais932@gmail.com</strong></p></li>
             <li><p>Whatsapp: +55 (11) 96280-9722</p></li>
-    </ul>
-</body>
-</html>
