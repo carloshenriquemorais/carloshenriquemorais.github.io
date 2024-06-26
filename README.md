@@ -21,13 +21,24 @@
         <h2>Educação:</h2>
             <li><p>Instituições de ensino frequentadas:
                 <p>SENAI Mario Amato - Fundamentos de Programação Web e Mobile <br> (08/2023 - 12/2023) (CONCLUIDO)</p>
-                <p>Faculdade Anhanguera - Análise e Desenvolvimento de Sistemas <br> (02/2024 - atual) (CURSANDO)</p>
+                <p>Faculdade Anhanguera - Análise e Desenvolvimento de Sistemas <br> (01/2024 - 06/2026) (CURSANDO)</p>
             </p></li>
-            <li><p>Graus Obtidos:</p> 
+            <li><p>Graus Futuros:</p> 
                 <p>Tecnólogo (ADS - Faculdade Anhanguera)</p></li>
             <li><p>Certificações: 
                 <p>Capacitação Profissional (Fundamentos de Programação Web e Mobile - SENAI)
             </p>
+        <h2>Habilidades:</h2>
+            <li><p>Domínios/Especialidades:
+                <p>HTML5 e CSS3</p>
+                <p>JavaScript</p>
+                <p>Python</p>
+                <p>Git e GitHub</p>
+                <p>SQL (MySQL)</p>
+                <p>Idiomas</p>
+                <p>Manutenção</p>
+                <p>Resolução de Problemas</p>
+                <p>Suporte Técnico</p></p></li>
         <h2>Habilidades:</h2>
             <li><p>Habilidades Técnicas:
                 <p>Suporte ao Cliente</p>
@@ -52,8 +63,9 @@
                 <p>Inglês (Avançado)</p>
                 <p>Espanhol (Médio)</p>
             </p></li>
-        <h2>Portfólio:</h2>
+        <h2>Projetos:</h2>
             <li><p><a href="https://github.com/carloshenriquemorais" target="_blank">Projetos HTML5, CSS3 e JavaScript</a></p></li>
         <h2>Contato:</h2>
             <li><p>Email: <strong>carlosmorais932@gmail.com</strong></p></li>
             <li><p>Whatsapp: +55 (11) 96280-9722</p></li>
+            <li><p><a href="www.linkedin.com/in/carlos-henrique-morais-de-oliveira-6a4760315" target="_blank">LinkedIn</a></p></li>
