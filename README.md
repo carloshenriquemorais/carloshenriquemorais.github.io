@@ -34,11 +34,7 @@
                 <p>JavaScript</p>
                 <p>Python</p>
                 <p>Git e GitHub</p>
-                <p>SQL (MySQL)</p>
-                <p>Idiomas</p>
-                <p>Manutenção</p>
-                <p>Resolução de Problemas</p>
-                <p>Suporte Técnico</p></p></li>
+                <p>SQL (MySQL)</p></p></li>
         <h2>Habilidades:</h2>
             <li><p>Habilidades Técnicas:
                 <p>Suporte ao Cliente</p>
